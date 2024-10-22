@@ -1,4 +1,4 @@
-# Project Name
+# G2Net
 
 This project involves training and predicting with a machine learning model using noisy signal data. The steps below outline the required environment setup, dependencies, and instructions for data preparation, model training, and result prediction.
 
